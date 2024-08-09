@@ -6,9 +6,9 @@ public class no5{
         name=args[1];
         branch=args[2];
 
-        System.out.println("Enrollment No: "+roll+"\n"+"Name: "+name+"\n"+"Branch: "+branch);
+        System.out.println("Roll no: "+roll+"\n"+"Name: "+name+"\n"+"Branch: "+branch+"\n");
 
-        System.out.println("Enrolment No: "+roll);
+        System.out.println("Roll no: "+roll);
         System.out.println("Name: "+ name);
         System.out.println("Branch: "+ branch);
     }
